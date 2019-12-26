@@ -1,3 +1,7 @@
 NO.REG	: 1820010095
 
 Nama 	: Ilyas Panji Hutomo
+
+Jurusan : SC
+
+Tahun : 2018
